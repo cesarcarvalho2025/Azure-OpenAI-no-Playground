@@ -1,0 +1,36 @@
+Resumo do Slide - Azure OpenAI no Playground
+Objetivo Geral
+Ensinar como utilizar o Azure OpenAI no Playground.
+Configuração necessária para acessar e usar o Azure OpenAI.
+Pré-requisitos
+Conta válida no Azure.
+Permissão de Administrador no Azure OpenAI.
+Créditos ou um método de pagamento configurado.
+1️⃣ Base e Setup do Azure OpenAI
+Verificar se você tem acesso de Admin para lançar o recurso no Azure.
+Fazer o deploy do Azure OpenAI e verificar os recursos no Azure AI Foundry.
+Explorar a interface do Playground.
+2️⃣ Explorando o Playground
+O Playground permite desenvolver prompts e testar modelos.
+Entender conceitos como tokenização e parâmetros para geração de texto:
+Temperatura: Define quão criativas as respostas podem ser.
+Top-P: Controla a diversidade das palavras usadas na resposta.
+Tokens Máximos: Define o tamanho da resposta gerada.
+Penalidades: Ajustam a repetição de palavras ou tópicos.
+3️⃣ Configuração do Playground
+Ajuste de parâmetros no modelo de IA.
+Uso de System Message para definir comportamento do modelo.
+Métodos de Zero-Shot e Few-Shot Learning para otimizar respostas.
+4️⃣ Aplicações Práticas
+Criando blobs para armazenar dados.
+Desenvolvendo prompts otimizados para diferentes contextos.
+Construindo um chat via CLI.
+Gerando áudio e imagens com o DALL·E.
+5️⃣ Melhores Práticas
+Começar com configurações padrão e ajustar conforme necessidade.
+Testar um parâmetro por vez para entender seu impacto.
+Documentar os resultados e iterar com base no feedback.
+📌 Links Úteis
+Guia do Azure OpenAI Playground: Microsoft Learn
+Exploração de parâmetros: Medium
+ChatGPT Quickstart: Microsoft Learn
